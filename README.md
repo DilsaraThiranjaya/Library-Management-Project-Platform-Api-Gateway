@@ -1,5 +1,14 @@
 # Platform: API Gateway
 
+### Student Information
+- **Student Name**: Dilsara Thiranjaya
+- **Student Number**: 2301692050
+- **Slack Handle**: Dilsara Thiranjaya
+- **GCP Project ID**: dilsara
+
+---
+
+
 This repository contains the Spring Cloud API Gateway for the Library Management System.
 
 ## Architectural Purpose
